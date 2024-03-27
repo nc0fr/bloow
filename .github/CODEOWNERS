@@ -1,0 +1,5 @@
+# GitHub CODEOWNERS files, similar in theory to Google3 OWNERS notices, but
+# quite different in practices.  See:
+# https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-code-owners
+
+* @nc0fr

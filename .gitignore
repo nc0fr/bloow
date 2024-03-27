@@ -1,0 +1,57 @@
+# OS and filesystem artifacts
+Thumbs.db
+.DS_Store
+ehthumbs.db
+ehthumbs_vista.db
+Icon?
+._*
+.Spotlight-V100
+.Trashes
+*~
+.fuse_hidden*
+.directory
+.Trash-*
+.nfs*
+
+# Editor noises
+*.swp
+*.swo
+*.swn
+
+# Common object and executables format
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.out
+*.o
+*.a
+*.lib
+
+# Bazel build system
+/bazel-*
+/.ijwb/
+/.aswb/
+/.clwb/
+
+# GNU gpg
+secring.*
+
+# Git files
+*.orig
+*.lock
+*.BACKUP.*
+*.BASE.*
+*.LOCAL.*
+*.REMOTE.*
+*._BACKUP_*.txt
+*._BASE_*.txt
+*._LOCAL_*.txt
+*._REMOTE_*.txt
+
+# Other version control systems
+*.svn
+*.hg
+*.bzr
+*.CVS

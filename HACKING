@@ -1,0 +1,27 @@
+
+                          CONTRIBUTION GUIDELINES AND
+                            NAVIGATING THE CODEBASE
+
+
+   Legal & Rules
+
+By contributing to the project, in any way possible, you are agreeing with
+the project license available in the LICENSE file.  Additionally, we expect
+all relations between our community members to follow our simple code of
+conduct document present in the "//docs/code-of-conduct.txt" file.
+
+Also, WE EXPECT ALL CONTRIBUTIONS to be compliant with the terms of the
+Developer Certificate of Origin, a copy of which is available in the
+"//docs/developer-certificate-origin.txt" file.
+This implies for the presence of a "Signed-off-by:" tag line in all of your
+commits.
+
+Unfortunately, we do not accept anonymous and pseudonymous contributions.  We
+expect all references to your identity to be tied to your legal self.
+
+
+   Code Contributions
+
+Test your changes before submitting them, ensure your code style is consistent
+with the rest of the codebase.  Before writing any change, open an issue to
+discuss the change.

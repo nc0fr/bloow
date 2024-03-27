@@ -1,0 +1,61 @@
+
+                             HUMANS CODE OF CONDUCT
+                               (March 2nd, 2024)
+
+
+   The Pledge
+
+We believe open communities should create a safe and interesting environment
+for anyone to contribute and learn.  For this reason, we are committed to
+maintaining a friendly, respectful, and harassment-free experience for all
+regardless of their background, identity, or experience.
+
+We expect everyone to follow these guidelines, even when they may be
+interacting with people whose opinions differ from their own.  We
+acknowledge the variety of cultures and backgrounds that exist on our planet
+and we prefer to focus on what unites us rather than what divides us:
+*humanness*.
+
+
+   Examples of Welcomed Behaviors
+
+Examples of behavior encouraging positive environments include:
+
+  *  using simple, inclusive, and respectful language;
+  *  being open to different viewpoints and experiences;
+  *  focusing on technical and factual discussions in relation to the project;
+  *  improving the community by sharing knowledge and experience; and
+  *  accelerating the innovation and creativity provided by the project and
+     its community.
+
+Remember that this list is not exhaustive and that we expect everyone to
+act as a *normal human being*.  Always remember that anyone comes from a
+different background and may not have the same experiences as you: if you
+feel attacked, it may be because of a misunderstanding.
+
+Be the change you want to see in the world.
+
+
+   Enforcement & Reporting
+
+Maintainers and "moderators" are always trying their best to monitor and
+enforce these guidelines in a fair and consistent manner.  To report any
+issues, please contact the dedicated team or maintainers of the project.
+
+You can contact the team at:
+
+  *  Nicolas Paul via Email at <n@nc0.fr> with PGP https://nc0.fr/pgp.txt,
+                      or on 𝕏 at https://x.com/@nc0dotfr.
+
+The team will review and investigate all complaints equally and fairly, in a
+timely manner.  Details and enforcement actions may be communicated publicly
+depending on the situation.
+
+Maintainers are also binding themselves to respect the same guidelines and
+standards, and to follow the same enforcement process as the rest of the
+community.  IF THEY ARE NOT, FEEL FREE TO GO PUBLIC!
+
+
+   Attribution
+
+This document was written by Nicolas Paul.

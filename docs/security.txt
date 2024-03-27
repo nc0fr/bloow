@@ -1,0 +1,28 @@
+
+                                SECURITY POLICY
+
+
+   Introduction
+
+We are constently working to keep our project secure, yet we are aware that
+bug-free softwares are a myth.  If you find a security issue, or at least you
+believe you did, please report it to us.
+
+
+   Rewards & Acknowledgements
+
+At the moment, we do not offer any monetary compensation for security issues.
+Bounties may be granted at our discretion, on a voluntary basis.
+
+All reporters will be acknowledged publicly, unless they request otherwise,
+whenever possible.
+
+
+   Contact Information
+
+For non-sensitive security issues, you may open a ticket using GitHub Issues.
+For everything else, we prefer private communications if possible.
+You can contact maintainers at:
+
+  *  Nicolas Paul via Email at <n@nc0.fr> with PGP https://nc0.fr/pgp.txt,
+                      or on 𝕏 at https://x.com/@nc0dotfr.
